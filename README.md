@@ -1,1 +1,12 @@
 # qa_python
+
+In this project the following tests were implemented:
+- test_add_new_book_add_two_books
+- test_set_book_genre_set_genre_from_list
+- test_get_book_genre_get_book_genre_for_book_without_genre
+- test_get_books_with_specific_genre_get_books_with_genre_from_list
+- test_get_books_genre_get_dict_with_one_book
+- test_get_books_for_children_get_books_without_genre_age_rating
+- test_add_book_in_favorites_add_book_from_dict
+- test_delete_book_from_favorites_delete_only_book_from_favorites
+- test_get_list_of_favorites_books_get_list_of_added_favorite_books
